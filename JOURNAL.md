@@ -55,3 +55,4 @@ https://github.com/hackclub/dinosaurs
 made a github repo too!
 Through some internet digging I found how to ground pour and figured out what F.Cu and B.Cu means
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/PxAprylbzkNyYSF3tQJLsBGnZFvpkfeS/56a6b37360145e2ed98280fed46e4114275a01219ecc9ce13fc2470e7538c838.png)
+I also made BOM and everything necessary to submit
